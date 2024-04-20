@@ -1,3 +1,4 @@
+Note steps-steps how to solved :
 1. memastikan keberadaan file ada atau tidak
 2. Pastikan file tersebut dapat diakses atau cek jumlah rows dan colum
 3. Konfigurasi koneksi ke PostgreSQL
